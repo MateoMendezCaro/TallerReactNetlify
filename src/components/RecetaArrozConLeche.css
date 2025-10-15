@@ -1,0 +1,23 @@
+.receta-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 1rem;
+  background-color: #fffefc;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.receta-img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+.receta-lista {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  line-height: 1.8;
+}
