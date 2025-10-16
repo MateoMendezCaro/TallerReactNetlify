@@ -10,7 +10,7 @@ export default function App() {
       <main className="container">
         <Routes>
           <Route path="/" element={<Home />} />
-          {/* <Route path="/recetas/arrozconleche" element={<Arroz_con_leche />} /> */}
+          <Route path="/recetas/arrozconleche" element={<Arroz_con_leche />} />
           <Route path="/recetas/polloNaranja" element={<PolloNaranja />} />
         </Routes>
       </main>
