@@ -11,7 +11,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/recetas/arrozconleche" element={<Arroz_con_leche />} />
-          <Route path="/recetas/Pollo" element={<PolloNaranja />} />
+          <Route path="/recetas/polloNaranja" element={<PolloNaranja />} />
         </Routes>
       </main>
       <footer className="footer">© {new Date().getFullYear()} Mi libro de
