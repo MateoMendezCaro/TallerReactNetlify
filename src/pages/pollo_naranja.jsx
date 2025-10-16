@@ -4,7 +4,7 @@ import paso1 from '../assets/paso1.jpg'
 import paso2 from '../assets/paso2.jpg'
 import paso3 from '../assets/paso3.jpg'
 import paso4 from '../assets/paso4.jpg'
-import './PolloNaranja.css' // 👈 Aquí importas tu CSS
+import  '../pages/pollo_naranja.css' 
 
 export default function PolloNaranja() {
   const data = {
