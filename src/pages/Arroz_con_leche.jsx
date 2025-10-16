@@ -1,7 +1,6 @@
-import Recipe from '../components/Recipe';
-import arrozImg1 from '../assets/arroz-con-leche_1.png';
-import arrozImg2 from '../assets/arroz-con-leche_2.png';
-import arrozImg3 from '../assets/arroz-con-leche_3.png';
+import arrozImg1 from '../assets/arroz_con_leche_1.png'
+import arrozImg2 from '../assets/arroz_con_leche_2.png'
+import arrozImg3 from '../assets/arroz_con_leche_3.png'
 
 export default function ArrozConLeche() {
   const pasos = [
