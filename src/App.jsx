@@ -2,7 +2,7 @@ import NavBar from './components/NavBar'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import PolloNaranja from './pages/pollo_naranja'
-import Arroz_con_leche from './pages/Arroz_con_leche'
+// import Arroz_con_leche from './pages/Arroz_con_leche'
 export default function App() {
   return (
     <div className="app">
