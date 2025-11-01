@@ -7,9 +7,9 @@ export default function NavBar() {
                 <span className="brand"> Libro de cocina</span>
                 <ul className="menu">
                     <li><NavLink to="/" end className={linkClass}>Inicio</NavLink></li>
-                    <li><NavLink to="/recetas/arrozconleche" className={linkClass}>Arroz con leche</
+                    {/* <li><NavLink to="/recetas/arrozconleche" className={linkClass}>Arroz con leche</
 
-                    NavLink></li>
+                    NavLink></li> */}
 
                     <li><NavLink to="/recetas/polloNaranja" className={linkClass}>Pollo a la naranja</
 
