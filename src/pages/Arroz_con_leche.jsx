@@ -1,7 +1,7 @@
-import '../styles/Arroz_con_leche.css';
-import arrozImg1 from '../assets/arroz-con-leche_1.png';
-import arrozImg2 from '../assets/arroz-con-leche_2.png';
-import arrozImg3 from '../assets/arroz-con-leche_3.png';
+import '../pages/RecetaArrozConLeche.css';
+import img1 from "../assets/arroz_con_leche_1.png";
+import img2 from "../assets/arroz_con_leche_2.png";
+import img3 from "../assets/arroz_con_leche_3.png";
 
 export default function Arroz_con_leche() {
 
@@ -40,9 +40,9 @@ export default function Arroz_con_leche() {
       </ul>
 
       <div className="receta-imagenes">
-        <img src={arrozImg1} alt="Preparación paso 1" className="receta-img" />
-        <img src={arrozImg2} alt="Preparación paso 2" className="receta-img" />
-        <img src={arrozImg3} alt="Preparación paso 3" className="receta-img" />
+        <img src={img1} alt="Preparación paso 1" className="receta-img" />
+        <img src={img2} alt="Preparación paso 2" className="receta-img" />
+        <img src={img3} alt="Preparación paso 3" className="receta-img" />
       </div>
 
       <h2>Preparación</h2>
