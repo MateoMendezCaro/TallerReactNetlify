@@ -7,7 +7,6 @@ import paso3 from '../assets/paso3.jpg'
 import paso4 from '../assets/paso4.jpg'
 import paso5 from '../assets/paso_final.jpg'
 import '../pages/pollo_naranja.css'
-import  '../pages/pollo_naranja.css' 
 
 export default function PolloNaranja() {
   const [servings, setServings] = useState(4)
