@@ -57,16 +57,9 @@ export default function Arroz_con_leche() {
         <ul>
           <li>Si quieres que quede más cremoso, utiliza leche entera.</li>
           <li>Puedes reemplazar la cáscara de limón por naranja para un aroma diferente.</li>
-          <li>Si queda muy espeso, agrega un chorrito extra de leche caliente al final.</li>
+          <li>Si queda muy espeso, agrega un chorrito de leche caliente al final.</li>
         </ul>
       </div>
-
     </div>
   );
 }
-
-
-
-
-    
-       
